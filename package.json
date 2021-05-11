@@ -1,0 +1,22 @@
+{
+    "name": "pascals-utility-pack",
+    "displayName": "Pascals Utility Pack",
+    "description": "Some utility extensions that i find usefull",
+    "version": "1.0.0",
+    "repository": {
+        "url": "https://github.com/Sigl-Pascal/Pascals-Utility-Pack"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "bierner.docs-view",  
+        "eamodio.gitlens",  
+        "sleistner.vscode-fileutils", 
+        "usernamehw.errorlens",
+        "tabnine.tabnine-vscode"
+    ]
+}
