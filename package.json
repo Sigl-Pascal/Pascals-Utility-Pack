@@ -1,8 +1,9 @@
 {
     "name": "pascals-utility-pack",
     "displayName": "Pascals Utility Pack",
+    "publisher": "Pascal-Sigl",
     "description": "Some utility extensions that i find usefull",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "repository": {
         "url": "https://github.com/Sigl-Pascal/Pascals-Utility-Pack"
     },
