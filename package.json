@@ -3,7 +3,7 @@
     "displayName": "Pascals Utility Pack",
     "publisher": "Pascal-Sigl",
     "description": "Some utility extensions that i find usefull",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "repository": {
         "url": "https://github.com/Sigl-Pascal/Pascals-Utility-Pack"
     },
@@ -18,6 +18,9 @@
         "eamodio.gitlens",  
         "sleistner.vscode-fileutils", 
         "usernamehw.errorlens",
-        "tabnine.tabnine-vscode"
+        "tabnine.tabnine-vscode",
+        "mhutchie.git-graph",
+        "jgclark.vscode-todo-highlight",
+        "CoenraadS.bracket-pair-colorizer-2"
     ]
 }
